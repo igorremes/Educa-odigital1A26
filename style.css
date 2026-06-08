@@ -8,4 +8,8 @@ margin: 0 auto;
 main {
 background-color: #FFFFFF;
 color: #000000;
+img {
+width: 80px;
+height: 80px;
+}
 }
